@@ -3,25 +3,25 @@ Hey there! I'm GDI, or the Improbability Generator! A custom RPG bot for rolling
 Using me in your RPG session to roll some dice is super easy!
 
 **MAIN COMMANDS**
-> ✅ `/enable` → Activates the rolling and dynamic ambient system (reactions) for the entire server. **(It’s already activated when you add the bot)**
-> ⛔ `/disable` → Deactivates the rolling and dynamic ambient system (reactions) for the entire server.
-> ⛅ `/atmosphere` → Activates the dynamic atmosphere system (reactions) for the entire server.
-> 🐉 `/adventure` → Sets up the permanent voice channel generation system controlled by the member (dont worry, permissions are minimal and local).
+> - ✅ `/enable` → Activates the rolling and dynamic ambient system (reactions) for the entire server. **(It’s already activated when you add the bot)**
+> - ⛔ `/disable` → Deactivates the rolling and dynamic ambient system (reactions) for the entire server.
+> - ⛅ `/atmosphere` → Activates the dynamic atmosphere system (reactions) for the entire server.
+> - 🐉 `/adventure` → Sets up the permanent voice channel generation system controlled by the member (dont worry, permissions are minimal and local).
 
 **Character Sheet and Attribute COMMANDS**
-> 📋 `/attributes` → Edit your sheets and attributes
-> 📋 `/sheet` → View any user's sheet
-> 📝 `/editattribute` → Edit one or more attributes from your sheet via command
-> 💿 `/exportsheet` → Export your sheet in JSON format
-> 📀 `/importsheet` → Import an exported JSON sheet
-> 💾 `/copyattributes` → Copy another user's attributes to your sheet
-> 💖 `/heal` → Heal HP on your sheet
-> 💔 `/damage` → Subtract damage from your current HP
+> - 📋 `/attributes` → Edit your sheets and attributes
+> - 📋 `/sheet` → View any user's sheet
+> - 📝 `/editattribute` → Edit one or more attributes from your sheet via command
+> - 💿 `/exportsheet` → Export your sheet in JSON format
+> - 📀 `/importsheet` → Import an exported JSON sheet
+> - 💾 `/copyattributes` → Copy another user's attributes to your sheet
+> - 💖 `/heal` → Heal HP on your sheet
+> - 💔 `/damage` → Subtract damage from your current HP
 
 **Rolling COMMANDS via `/` and others**
-> 🎲 `/r` → Rolls XdY + bonuses + attributes if available (`X#Roll` gives result in a list)
-> 🧮 `/calc` → Solve math expressions
-> ⏳ `/timer` → Set a timer and get the corresponding timestamp
+> - 🎲 `/r` → Rolls XdY + bonuses + attributes if available (`X#Roll` gives result in a list)
+> - 🧮 `/calc` → Solve math expressions
+> - ⏳ `/timer` → Set a timer and get the corresponding timestamp
 > - 🎛 `/panels` → Select a custom panel for easy simple rolls
 
 **Dice Rolling (`XdY + BONUS + ATTRIBUTES`)**
