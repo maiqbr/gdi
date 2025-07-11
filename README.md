@@ -1,6 +1,8 @@
 # gdi
 Hey there! I'm GDI, or the Improbability Generator! A custom RPG bot for rolling dice, managing character sheets, and automating your rpg adventure.
-Using me in your RPG session to roll some dice is super easy!
+https://gdibot.carrd.co/
+
+---
 
 **MAIN COMMANDS**
 > - ✅ `/enable` → Activates the rolling and dynamic ambient system (reactions) for the entire server. **(It’s already activated when you add the bot)**
